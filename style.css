@@ -1,0 +1,85 @@
+.done{
+	text-decoration: line-through;
+}
+body{
+	text-align: center;
+	background-image:  linear-gradient(#cf6ee6,#6569e6);
+	background-size: 340px, auto;
+	  min-height: calc(100vh - 100px);
+	  background-attachment: fixed;
+}
+h1{
+	font-family: 'Roboto', sans-serif;
+	font-size: 80px;
+	color: #11349c;
+	text-align: center;
+}
+button{
+	background-color: #1049f3;
+	border-color: #1049f3;
+	padding: 7px 7px;
+	color: #bfc9e8;
+	margin-bottom: 15px;
+}
+#enter {
+	margin-bottom: 0px;
+}
+button:hover{
+	background-color: #3462f5;
+}
+#first{
+	font-size: 45px;
+}
+input{
+	background-color: #e395ec;
+	border-color: #11349c;
+	border-width: thick;
+	padding: 5px 12px;
+}
+div{
+	font-family: 'Roboto', sans-serif;
+	font-size: 33px;
+	color: blue;
+}
+ul{
+	list-style-type: none;
+	text-align: center;
+}
+p{
+	font-family:'Roboto', sans-serif;
+}
+
+#scrollToTopBtn {
+  background-color: black;
+  border: none;
+  border-radius: 0%;
+  color: white;
+  cursor: pointer;
+  font-size: 28px;
+  line-height: 48px;
+  width: 48px;
+  float :right;
+  margin-right: 15px;
+  margin-bottom: 10px;
+}
+@media only screen and (max-width : 768px) {
+	h1 {
+		font-size: 90px;
+	}
+	input {
+		padding: 10px 10px;
+	}
+	button {
+		font-size: 25px;
+		padding: 5px 5px;
+	}
+	#enter {
+		margin-bottom: 0px;
+	}
+	#first{
+		font-size: 50px;
+	}
+	div {
+		font-size: 50px;
+	}
+}
