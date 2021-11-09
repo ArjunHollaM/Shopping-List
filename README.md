@@ -7,3 +7,7 @@ This is a website built using HTML,CSS and Java Script for listing out the user'
 * Click on 'Done!' when an item is bought. You can click on it again to mark it as undone.
 * Click on 'Delete' if an item is not required.
 That is it. Have fun!
+
+## Hosting
+You can find the website by clicking this link :
+https://your-shopping-list.netlify.app/
