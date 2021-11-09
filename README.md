@@ -4,6 +4,6 @@ This is a website built using HTML,CSS and Java Script for listing out the user'
 ## How to use ?
 
 * Type in an item you want to buy and press enter or click on 'Add Item' to add the item to the list.
-* Click on 'Done!' when an item is bought.
-* Click on 'Delete' if an item is not required
+* Click on 'Done!' when an item is bought. You can click on it again to mark it as undone.
+* Click on 'Delete' if an item is not required.
 That is it. Have fun!
